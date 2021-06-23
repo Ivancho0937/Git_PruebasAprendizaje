@@ -1,5 +1,7 @@
 Archivo de prueba para github #1
 
+01010100011001    011001100110  1000011
+0010011 0111000 11000 1111100 000010
 ====================================
 Modificaciones 4 realizadas 23 junio
 para la prueba de git reset
