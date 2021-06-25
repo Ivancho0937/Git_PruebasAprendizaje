@@ -4,7 +4,7 @@ Archivo de prueba para github #1
 Modificaciones 4 realizadas 23 junio
 para la prueba de git reset
 ====================================
-
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 ====//====//====//===//====//====/==/=
 ====//====//====//===//====//====/==/=
